@@ -1,6 +1,6 @@
 import pywhatkit as pyw
 
-numTel = "+573122055470"
+numTel = "+"
 mensaje = "Mensaje automatizado"
 hora = 17
 minutos = 10
